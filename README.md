@@ -1,4 +1,5 @@
 # action-back4app
+
 An github action to deploy projects on back4app
 
 ## Inputs
@@ -12,8 +13,9 @@ An github action to deploy projects on back4app
 **Required** The accountkey of back4app account
 
 ## Example usage
+
 ```yml
-uses: omurilo/action-back4app@v3
+uses: heinrichcoetzee/back4app-deploy-action@v3
 with:
   project: 'your-project-name'
   accountKey: 'your-account-key'
