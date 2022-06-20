@@ -1,6 +1,6 @@
-name: 'Deploy B4App'
-description: 'Deploy to B4App'
-author: "Murilo Henrique"
+name: 'back4app Deploy Action'
+description: 'back4app Deploy Action'
+author: "Heinrich Coetzee"
 branding:
   icon: 'upload-cloud'  
   color: 'green'
