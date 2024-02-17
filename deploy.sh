@@ -9,4 +9,4 @@ b4a deploy
 
 echo "###########"
 
-cat /root/.back4app/*
+ls -la /root/
