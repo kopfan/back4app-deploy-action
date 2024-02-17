@@ -6,3 +6,7 @@ source /root/.bashrc
 
 b4a default "$1"
 b4a deploy
+
+echo "###########"
+
+cat /root/.back4app/*
