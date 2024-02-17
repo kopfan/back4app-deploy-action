@@ -15,7 +15,7 @@ An github action to deploy projects on back4app
 ## Example usage
 
 ```yml
-uses: heinrichcoetzee/back4app-deploy-action@v3
+uses: kopfan/back4app-deploy-action@v3
 with:
   project: 'your-project-name'
   accountKey: 'your-account-key'
